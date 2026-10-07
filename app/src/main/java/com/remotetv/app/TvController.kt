@@ -1,8 +1,8 @@
 package com.remotetv.app
 
 import android.content.Context
-import dev.mobile.dadb.AdbKeyPair
-import dev.mobile.dadb.Dadb
+import dadb.AdbKeyPair
+import dadb.Dadb
 import kotlinx.coroutines.*
 import kotlinx.coroutines.channels.BufferOverflow
 import kotlinx.coroutines.channels.Channel
